@@ -27,4 +27,3 @@ The project involves the following steps:
 >Application: Utilizing the segmented groups to tailor marketing strategies, product offerings, and customer experiences.
 
 
-
